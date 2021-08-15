@@ -67,3 +67,14 @@ header ul li a:hover {
   align-items: center;
   padding: 60px;
 }
+
+.content h2 {
+  font-size: 3em;
+  color: #333;
+}
+
+.content p {
+  font-size: 1.1em;
+  color: #777;
+  line-height: 1.8em;
+}
