@@ -39,3 +39,12 @@ header {
   font-weight: 700;
   text-decoration: none;
 }
+
+header ul {
+  display: flex;
+}
+
+header ul li {
+  list-style: none;
+  margin-left: 30px;
+}
