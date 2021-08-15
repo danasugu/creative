@@ -17,3 +17,7 @@
   height: 100vh;
   background: red;
 }
+
+.banner .box:last-child {
+  background: yellow;
+}
