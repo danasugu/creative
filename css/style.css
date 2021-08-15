@@ -78,3 +78,11 @@ header ul li a:hover {
   color: #777;
   line-height: 1.8em;
 }
+
+.btn {
+  display: inline-block;
+  font-size: 1.1em;
+  margin-top: 20px;
+  color: #333;
+  text-decoration: none;
+}
