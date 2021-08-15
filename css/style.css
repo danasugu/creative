@@ -15,7 +15,6 @@
 .banner .box {
   position: relative;
   height: 100vh;
-  background: #fff;
 }
 
 .banner .box:last-child {
