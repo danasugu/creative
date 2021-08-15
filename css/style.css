@@ -31,3 +31,11 @@ header {
   justify-content: space-between;
   align-items: center;
 }
+
+.logo {
+  position: relative;
+  font-size: 1.4em;
+  color: #111;
+  font-weight: 700;
+  text-decoration: none;
+}
