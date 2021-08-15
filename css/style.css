@@ -6,3 +6,8 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+
+.banner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
