@@ -19,6 +19,7 @@
 
 .banner .box:last-child {
   background: yellow;
+  display: flex;
 }
 
 header {
@@ -58,4 +59,10 @@ header ul li a {
 
 header ul li a:hover {
   color: #322;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
